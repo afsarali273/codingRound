@@ -1,4 +1,4 @@
-package com.testvagrant.CodingRound;
+package codinground.CodingRound;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

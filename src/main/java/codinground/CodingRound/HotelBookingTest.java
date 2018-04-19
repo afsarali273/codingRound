@@ -33,9 +33,7 @@ public class HotelBookingTest {
 
         new Select(travellerSelection).selectByVisibleText("1 room, 2 adults");
         searchButton.click();
-
         driver.quit();
-
     }
 
     private void setDriverPath() {
